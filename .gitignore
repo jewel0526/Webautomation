@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 *.idea
+*out
 *target
 =======
 # Compiled class file
