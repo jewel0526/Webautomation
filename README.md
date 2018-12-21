@@ -7,7 +7,7 @@ Make sure there is a Branch in your name<br>
 
 3)`git commit -m “Meaningful message”` </br>
 
-            Not master
+      
 4)`git push -u origin YourBranchName!` </br>
 
 
