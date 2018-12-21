@@ -10,3 +10,13 @@ Make sure there is a Branch in your name<br>
             Not master
 4)`git push -u origin YourBranchName!` </br>
 
+
+
+Extra info ! to check current branch 
+
+git branch 
+
+To create new Branch
+
+git checkout -b YourNewBranchName
+
