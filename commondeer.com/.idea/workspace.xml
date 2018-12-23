@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64a29ce1-9b36-413b-9fd8-64966e5de2f2" name="Default Changelist" comment="" />
+    <list default="true" id="64a29ce1-9b36-413b-9fd8-64966e5de2f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/commondeer.com.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/commondeer.com.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/src/main/java/main/java/ForEveryClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/generic/src/main/java/main/java/ForEveryClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/target/classes/main/java/ForEveryClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/generic/target/classes/main/java/ForEveryClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gravel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/CustomerInformationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/CustomerInformationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toExecute/target/classes/com/commondeer/retail/CustomerInformationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/toExecute/target/classes/com/commondeer/retail/CustomerInformationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toExecute/target/classes/com/commondeer/retail/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/toExecute/target/classes/com/commondeer/retail/Login.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/generic/target/" />
@@ -58,14 +68,54 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1047055999">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/Login.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+            <state relative-caret-position="160">
+              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/CustomerInformationPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,7 +126,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/toExecute/src/test/java/com/commondeer/retailtest/LoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
+            <state relative-caret-position="320">
               <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -90,8 +140,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="256">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,8 +152,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/generic/src/main/java/main/java/ForEveryClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+            <state relative-caret-position="96">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -165,13 +215,15 @@
         <option value="$PROJECT_DIR$/toExecute/src/main/java/HomePage.java" />
         <option value="$PROJECT_DIR$/toExecute/src/test/java/HomePageTest.java" />
         <option value="$PROJECT_DIR$/toExecute/src/main/java/CreateAccount.java" />
-        <option value="$PROJECT_DIR$/generic/src/main/java/main/java/ForEveryClass.java" />
         <option value="$PROJECT_DIR$/toExecute/src/main/java/Login.java" />
         <option value="$PROJECT_DIR$/toExecute/src/main/java/CustomerInformationPage.java" />
         <option value="$PROJECT_DIR$/toExecute/src/main/resources/executable.xml" />
         <option value="$PROJECT_DIR$/toExecute/src/test/java/com/commondeer/retailtest/LoginTest.java" />
-        <option value="$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/Login.java" />
         <option value="$PROJECT_DIR$/toExecute/src/test/resources/executable.xml" />
+        <option value="$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/HomePage.java" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/main/java/ForEveryClass.java" />
+        <option value="$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/Login.java" />
+        <option value="$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/CustomerInformationPage.java" />
       </list>
     </option>
   </component>
@@ -208,83 +260,24 @@
         <subPane>
           <expand>
             <path>
-              <item name="gravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gravel" type="462c0819:PsiDirectoryNode" />
+              <item name="commondeer.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="commondeer.com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gravel" type="462c0819:PsiDirectoryNode" />
+              <item name="commondeer.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="commondeer.com" type="462c0819:PsiDirectoryNode" />
               <item name="generic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gravel" type="462c0819:PsiDirectoryNode" />
+              <item name="commondeer.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="commondeer.com" type="462c0819:PsiDirectoryNode" />
               <item name="generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gravel" type="462c0819:PsiDirectoryNode" />
-              <item name="generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gravel" type="462c0819:PsiDirectoryNode" />
-              <item name="generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gravel" type="462c0819:PsiDirectoryNode" />
+              <item name="commondeer.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="commondeer.com" type="462c0819:PsiDirectoryNode" />
               <item name="toExecute" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gravel" type="462c0819:PsiDirectoryNode" />
-              <item name="toExecute" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gravel" type="462c0819:PsiDirectoryNode" />
-              <item name="toExecute" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gravel" type="462c0819:PsiDirectoryNode" />
-              <item name="toExecute" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gravel" type="462c0819:PsiDirectoryNode" />
-              <item name="toExecute" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gravel" type="462c0819:PsiDirectoryNode" />
-              <item name="toExecute" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gravel" type="462c0819:PsiDirectoryNode" />
-              <item name="toExecute" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -295,26 +288,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/InteligProjects/gravel/toExecute/src/main/java/CreateAccount.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545557509631" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545604751968" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/generic/src/main/java" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Test123/RuslanGroup" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Test123/RuslanGroup" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\InteligProjects\gravel\toExecute\src\test" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\agaev\Desktop\RuslanGroup\RuslanGroup\commondeer.com\generic\driver" />
+      <recent name="C:\InteligProjects\gravel\generic\driver" />
       <recent name="C:\InteligProjects\gravel\generic" />
+      <recent name="C:\InteligProjects\gravel\driver" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="main.java" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\InteligProjects\gravel\generic\driver" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\InteligProjects\gravel\toExecute\src\test" />
       <recent name="C:\InteligProjects\gravel\generic" />
-      <recent name="C:\InteligProjects\gravel\driver" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -415,41 +409,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 03h 17m 10s.xml">
+    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 17h 28m 03s.xml">
       <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 03h 18m 49s.xml">
+    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 17h 28m 07s.xml">
       <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 03h 20m 39s.xml">
+    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 17h 28m 34s.xml">
       <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 03h 21m 02s.xml">
+    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 17h 28m 48s.xml">
       <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 03h 21m 37s.xml">
+    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 17h 29m 06s.xml">
       <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 03h 22m 46s.xml">
+    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 17h 29m 44s.xml">
       <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 03h 25m 49s.xml">
+    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 17h 30m 57s.xml">
       <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 03h 27m 19s.xml">
+    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 17h 32m 48s.xml">
       <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 03h 29m 19s.xml">
+    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 17h 34m 01s.xml">
       <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 03h 35m 34s.xml">
+    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 17h 37m 11s.xml">
       <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24832214" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25167784" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -545,9 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -565,19 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/CustomerInformationPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -585,9 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -605,9 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -625,9 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -639,38 +609,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#613#614#0" expanded="true" />
             <element signature="e#661#662#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toExecute/src/test/java/com/commondeer/retailtest/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -692,10 +630,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toExecute/src/test/java/com/commondeer/retailtest/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/CustomerInformationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/generic/src/main/java/main/java/ForEveryClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        <state relative-caret-position="96">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

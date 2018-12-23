@@ -5,6 +5,8 @@ import org.openqa.selenium.support.FindBy;
 
 public class CustomerInformationPage extends ShoppingCard {
 
+    Login objOfloGin = new Login();
+
     @FindBy(css = "input#checkout_email")
     private WebElement customerPageemail;
     @FindBy (css = "input#checkout_shipping_address_first_name")
@@ -29,7 +31,7 @@ public class CustomerInformationPage extends ShoppingCard {
 
     public void customerFillInfoPage () throws InterruptedException {
         checkOutFunc();
-        customerPageemail.sendKeys(loginEmail);
+        customerPageemail.sendKeys(objOfloGin.loginEmail);
         firstName.sendKeys("Ali");
         lastname.sendKeys("baba");
         address.sendKeys("21-25 miyagi Street");

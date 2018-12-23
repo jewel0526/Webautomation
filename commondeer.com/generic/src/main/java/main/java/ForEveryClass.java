@@ -14,9 +14,6 @@ import java.util.concurrent.TimeUnit;
 public class ForEveryClass {
 
 
-    public static String loginEmail = "1madman@bk.ru";
-    public static String loginPassword = "qwer1234";
-
 
 
         public static WebDriver driver = null;
@@ -36,18 +33,18 @@ public class ForEveryClass {
         public WebDriver getLocalDriver(String browserName, String os) {
             if (browserName.equalsIgnoreCase("chrome")) {
                 if (os.equalsIgnoreCase("windows")) {
-                    System.setProperty("webdriver.chrome.driver", "C:\\InteligProjects\\gravel\\generic\\driver\\chromedriver.exe");
+                    System.setProperty("webdriver.chrome.driver", "C:\\Users\\agaev\\Desktop\\RuslanGroup\\RuslanGroup\\commondeer.com\\generic\\driver\\chromedriver.exe");
                     driver = new ChromeDriver();
                 } else if (os.equalsIgnoreCase("mac")) {
-                    System.setProperty("webdriver.chrome.driver", "C:\\InteligProjects\\gravel\\generic\\driver\\chromedriver.exe");
+                    System.setProperty("webdriver.chrome.driver", "C:\\Users\\agaev\\Desktop\\RuslanGroup\\RuslanGroup\\commondeer.com\\generic\\driver\\chromedriver.exe");
                     driver = new ChromeDriver();
                 }
             } else if (browserName.equalsIgnoreCase("firefox")) {
                 if (os.equalsIgnoreCase("windows")) {
-                    System.setProperty("webdriver.gecko.driver", "C:\\InteligProjects\\gravel\\generic\\driver\\geckodriver.exe");
+                    System.setProperty("webdriver.gecko.driver", "C:\\Users\\agaev\\Desktop\\RuslanGroup\\RuslanGroup\\commondeer.com\\generic\\driver\\geckodriver.exe");
                     driver = new ChromeDriver();
                 } else if (os.equalsIgnoreCase("mac")) {
-                    System.setProperty("webdriver.gecko.driver", "C:\\InteligProjects\\gravel\\generic\\driver\\chromedriver.exe");
+                    System.setProperty("webdriver.gecko.driver", "C:\\Users\\agaev\\Desktop\\RuslanGroup\\RuslanGroup\\commondeer.com\\generic\\driver\\geckodriver.exe");
                     driver = new ChromeDriver();
                 }
             }

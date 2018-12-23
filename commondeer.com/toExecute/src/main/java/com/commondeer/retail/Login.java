@@ -7,6 +7,9 @@ import org.testng.Assert;
 
 public class Login extends ForEveryClass {
 
+    public static String loginEmail = "1madman@bk.ru";
+    public static String loginPassword = "qwer1234";
+
     @FindBy(xpath = "//h1[text()='Login']")
     private WebElement logInTitle;
 
