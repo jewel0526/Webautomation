@@ -11,6 +11,7 @@
 
     <modules>
         <module>generic</module>
+        <module>commondeer.com</module>
     </modules>
 <dependencyManagement>
   <dependencies>

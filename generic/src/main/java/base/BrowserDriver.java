@@ -48,10 +48,10 @@ public class BrowserDriver {
                 capabilities.setCapability(ChromeOptions.CAPABILITY, options);
 
                 if (os.equalsIgnoreCase("windows")) {
-                    System.setProperty("webdriver.chrome.driver", "../Generic/drivers/windows/chromedriver.exe");
+                    System.setProperty("webdriver.chrome.driver", "C:\\Users\\agaev\\Desktop\\RuslanGroup\\webautomationnov18\\generic\\drivers\\windows\\chromedriver.exe");
                     driver = new ChromeDriver(options);
                 } else if (os.equalsIgnoreCase("mac")) {
-                    System.setProperty("webdriver.chrome.driver", "../Generic/drivers/mac/chromedriver");
+                    System.setProperty("webdriver.chrome.driver", "C:\\Users\\agaev\\Desktop\\RuslanGroup\\webautomationnov18\\generic\\drivers\\windows\\chromedriver.exe");
                     driver = new ChromeDriver(options);
                 }
             } else if (browserName.equalsIgnoreCase("firefox")) {
@@ -69,10 +69,10 @@ public class BrowserDriver {
 
 
                 if (os.equalsIgnoreCase("windows")) {
-                    System.setProperty("webdriver.gecko.driver", "../Generic/drivers/windows/geckodriver.exe");
+                    System.setProperty("webdriver.gecko.driver", "C:\\Users\\agaev\\Desktop\\RuslanGroup\\webautomationnov18\\generic\\drivers\\windows\\chromedriver.exe");
                     driver = new FirefoxDriver(options);
                 } else if (os.equalsIgnoreCase("mac")) {
-                    System.setProperty("webdriver.gecko.driver", "../Generic/drivers/mac/geckodriver");
+                    System.setProperty("webdriver.gecko.driver", "C:\\Users\\agaev\\Desktop\\RuslanGroup\\webautomationnov18\\generic\\drivers\\windows\\chromedriver.exe");
                     driver = new FirefoxDriver(options);
                 }
             }
