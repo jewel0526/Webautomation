@@ -1,1 +1,0 @@
-POM is an XML file which contains the project configuration details used by Maven. It provides all the configuration required for a project.
