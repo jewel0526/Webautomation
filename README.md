@@ -18,5 +18,5 @@ git branch
 
 To create new Branch
 
-git checkout -b YourNewBranchName
+git checkout -b BranchThatIGaveYou 
 
