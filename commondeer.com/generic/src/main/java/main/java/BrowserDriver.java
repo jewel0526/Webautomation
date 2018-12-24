@@ -11,7 +11,7 @@ import org.testng.annotations.Parameters;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
-public class ForEveryClass {
+public class BrowserDriver {
 
 
 
@@ -61,5 +61,21 @@ public class ForEveryClass {
 //            driver.quit();
         }
 
+
+            public static WebDriver  getDriver()
+            {
+                return driver;
+            }
+            /**
+             * This method returns the url.
+             *
+             * @return Returns the string.
+             */
+            public static String getUrl()
+            {
+                return driver.getCurrentUrl();
     }
+
+
+}
 

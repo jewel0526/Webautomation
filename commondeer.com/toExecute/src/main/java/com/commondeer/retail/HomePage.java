@@ -1,20 +1,14 @@
 package com.commondeer.retail;
 
-import main.java.ForEveryClass;
-import org.openqa.selenium.By;
+import main.java.BrowserDriver;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.How;
 import org.testng.Assert;
-import org.testng.annotations.Test;
 
-import javax.swing.*;
-import javax.xml.xpath.XPath;
+public class HomePage extends BrowserDriver {
 
-public class HomePage extends ForEveryClass {
-    
 
     @FindBy(xpath = "//img[@alt='Common Deer']")
     private WebElement logoVerification;

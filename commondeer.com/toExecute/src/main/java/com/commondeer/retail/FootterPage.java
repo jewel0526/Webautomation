@@ -1,13 +1,13 @@
 package com.commondeer.retail;
 
-import main.java.ForEveryClass;
+import main.java.BrowserDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.testng.Assert;
 
 import java.util.List;
 
-public class FootterPage extends ForEveryClass {
+public class FootterPage extends BrowserDriver {
 
     @FindBy(xpath = "//div[@class='grid']")
     private List<WebElement> li;
