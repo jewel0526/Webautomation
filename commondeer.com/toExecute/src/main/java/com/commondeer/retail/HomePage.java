@@ -14,16 +14,15 @@ import javax.swing.*;
 import javax.xml.xpath.XPath;
 
 public class HomePage extends ForEveryClass {
-
-
+    
 
     @FindBy(xpath = "//img[@alt='Common Deer']")
     private WebElement logoVerification;
 
-    @FindBy (how = How.XPATH ,using = "//ul[@class='text-links'][1]")
+    @FindBy (xpath = "//ul[@class='text-links'][1]")
     private WebElement searchBtn;
 
-    @FindBy (how = How.XPATH,using = "//input[@type='search'][1]")
+    @FindBy (xpath = "//input[@type='search'][1]")
     private  WebElement searchInput;
 
     @FindBy(xpath = "//a[contains(text(),'Mount Philo T-Shirt')]")

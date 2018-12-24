@@ -30,21 +30,23 @@ public class ForEveryClass {
             driver.manage().window().maximize();
         }
 
+
+
         public WebDriver getLocalDriver(String browserName, String os) {
             if (browserName.equalsIgnoreCase("chrome")) {
                 if (os.equalsIgnoreCase("windows")) {
-                    System.setProperty("webdriver.chrome.driver", "C:\\Users\\agaev\\Desktop\\RuslanGroup\\RuslanGroup\\commondeer.com\\generic\\driver\\chromedriver.exe");
+                    System.setProperty("webdriver.chrome.driver", "../generic/driver/chromedriver.exe");
                     driver = new ChromeDriver();
                 } else if (os.equalsIgnoreCase("mac")) {
-                    System.setProperty("webdriver.chrome.driver", "C:\\Users\\agaev\\Desktop\\RuslanGroup\\RuslanGroup\\commondeer.com\\generic\\driver\\chromedriver.exe");
+                    System.setProperty("webdriver.chrome.driver", "../generic/driver/chromedriver.exe");
                     driver = new ChromeDriver();
                 }
             } else if (browserName.equalsIgnoreCase("firefox")) {
                 if (os.equalsIgnoreCase("windows")) {
-                    System.setProperty("webdriver.gecko.driver", "C:\\Users\\agaev\\Desktop\\RuslanGroup\\RuslanGroup\\commondeer.com\\generic\\driver\\geckodriver.exe");
+                    System.setProperty("webdriver.gecko.driver", "../generic/driver/geckodriver.exe");
                     driver = new ChromeDriver();
                 } else if (os.equalsIgnoreCase("mac")) {
-                    System.setProperty("webdriver.gecko.driver", "C:\\Users\\agaev\\Desktop\\RuslanGroup\\RuslanGroup\\commondeer.com\\generic\\driver\\geckodriver.exe");
+                    System.setProperty("webdriver.gecko.driver", "../generic/driver/geckodriver.exe");
                     driver = new ChromeDriver();
                 }
             }
@@ -55,7 +57,8 @@ public class ForEveryClass {
         public void closeOut() throws InterruptedException {
             driver.manage().deleteAllCookies();
             Thread.sleep(2000);
-            driver.quit();
+            driver.close();
+//            driver.quit();
         }
 
     }
