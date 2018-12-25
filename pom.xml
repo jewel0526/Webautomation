@@ -12,7 +12,6 @@
     <modules>
         <module>ecommerce</module>
         <module>generic</module>
-        <module>SeleniumProject</module>
     </modules>
 <dependencyManagement>
   <dependencies>

@@ -25,7 +25,7 @@ public class ContactUsPageTest extends BrowserDriver {
         objOfHomePage.clickContactUs();
         String actualText = objContactUsPage.contactUs();
         Assert.assertEquals(actualText,"Why Shop with Us?");
-        System.out.println("Contact Us Test Passed");
+        System.out.println("Contact Us - Test Passed");
 
     }
 

@@ -18,6 +18,7 @@
 
         <class name="test.pageobjects.HomePageTest"/>
         <class name="test.pageobjects.ContactUsPageTest"/>
+        <class name="test.pageobjects.SearchItemTest"/>
 
 
     </classes>

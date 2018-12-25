@@ -1,12 +1,13 @@
 package test.pageobjects;
 
+import base.BrowserDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import page.objects.HomePage;
 
-public class HomePageTest extends HomePage {
+public class HomePageTest extends BrowserDriver {
 
    HomePage objOfHomePage = null;
 
@@ -21,7 +22,7 @@ public class HomePageTest extends HomePage {
 
     String actualText = objOfHomePage.search();
     Assert.assertEquals(actualText, "Kensington SP17 17\" Classic Laptop Sleeve");
-    System.out.println("Search Test Passed");
+    System.out.println("HomePage Search - Test Passed");
 
     }
 }

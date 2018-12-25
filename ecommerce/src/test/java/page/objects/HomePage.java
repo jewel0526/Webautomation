@@ -10,7 +10,7 @@ import org.openqa.selenium.support.How;
 public class HomePage extends BrowserDriver {
 
     @FindBy(how = How.ID, using = "search_text")
-    private WebElement searchBox;
+    private WebElement searchBox1;
 
     @FindBy(how = How.PARTIAL_LINK_TEXT, partialLinkText = "Contact Us")
     private WebElement contactUs;
@@ -20,7 +20,7 @@ public class HomePage extends BrowserDriver {
 
     public String search ()
     {
-    searchBox.sendKeys("Laptop Sleeve", Keys.ENTER);
+    searchBox1.sendKeys("Laptop Sleeve", Keys.ENTER);
     String actualText = driver.findElement(By.partialLinkText("Kensington SP17 17\" Classic Laptop Sleeve")).getText();
     return actualText;
 
