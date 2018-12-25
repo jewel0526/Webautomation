@@ -1,7 +1,7 @@
 # RuslanGroup
 Make sure there is a Branch in your name<br>
     
-1)`git clone --single-branch -b BranchThatIGaveYou https://github.com/gravel93/RuslanGroup.git` <br>
+1)`git clone --single-branch -b YourbranchName https://github.com/gravel93/RuslanGroup.git` <br>
   
 2)`git add .` </br>
 
@@ -18,5 +18,5 @@ git branch
 
 To create new Branch
 
-git checkout -b BranchThatIGaveYou 
+git checkout -b YourNewBranchName
 
