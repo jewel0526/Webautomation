@@ -1,14 +1,11 @@
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.How;
-import org.openqa.selenium.By;
+
+import main.java.BrowserDriver;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
-    public class HomePage extends browserDriver {
+public class HomePage extends BrowserDriver {
 
         // private WebDriver driver;
 

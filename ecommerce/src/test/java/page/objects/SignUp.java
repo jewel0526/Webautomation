@@ -1,6 +1,6 @@
 package page.objects;
 
-import base.BrowserDriver;
+import main.java.BrowserDriver;
 import org.openqa.selenium.By;
 
 public class SignUp extends BrowserDriver {

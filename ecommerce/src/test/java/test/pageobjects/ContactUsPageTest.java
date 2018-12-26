@@ -1,12 +1,14 @@
 package test.pageobjects;
 
-import base.BrowserDriver;
+import main.java.BrowserDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import page.objects.ContactUsPage;
 import page.objects.HomePage;
+
+import static main.java.BrowserDriver.driver;
 
 public class ContactUsPageTest extends BrowserDriver {
 

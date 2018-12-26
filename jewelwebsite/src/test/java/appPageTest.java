@@ -1,8 +1,10 @@
+
+import main.java.BrowserDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-public class appPageTest  extends browserDriver{
+public class appPageTest  extends BrowserDriver {
     appPage appPageTest = null;
 
     @BeforeMethod

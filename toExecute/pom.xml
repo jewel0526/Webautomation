@@ -3,26 +3,48 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>gravel</artifactId>
-        <groupId>com.gravel</groupId>
+        <groupId>com.webautomation.nov18</groupId>
+        <artifactId>webautomationnov18</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>toExecute</artifactId>
+
+
     <dependencies>
+
+
+
         <dependency>
-            <groupId>com.gravel</groupId>
+            <groupId>com.webautomation.nov18</groupId>
             <artifactId>generic</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-support</artifactId>
+            <version>3.141.59</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.webautomation.nov18</groupId>
+            <artifactId>generic</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+
+
+
     </dependencies>
-<<<<<<< HEAD
 
-
-</project>
-=======
          
          <build>
         <plugins>
@@ -50,4 +72,4 @@
 
 
 </project>
->>>>>>> 8678b5a83178bae379edb34a4bd1a94f7637f277
+

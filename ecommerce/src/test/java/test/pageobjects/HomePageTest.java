@@ -1,6 +1,6 @@
 package test.pageobjects;
 
-import base.BrowserDriver;
+import main.java.BrowserDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;

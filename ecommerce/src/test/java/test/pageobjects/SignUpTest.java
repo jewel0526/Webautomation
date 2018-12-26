@@ -5,8 +5,10 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import page.objects.SignUp;
 
+import static main.java.BrowserDriver.driver;
 
-    public class SignUpTest extends SignUp {
+
+public class SignUpTest extends SignUp {
 
 
         SignUp objOfSignUp = null;
