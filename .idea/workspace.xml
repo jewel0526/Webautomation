@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64a29ce1-9b36-413b-9fd8-64966e5de2f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/ecommerce.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/generic.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/target/classes/main/java/BrowserDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/generic/target/classes/main/java/BrowserDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jewelwebsite/jewelwebsite.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/toExecute.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webautomationnov18.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toExecute/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/toExecute/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -101,50 +94,70 @@
     <session id="1491518408">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="12" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="939">
+              <caret line="72" selection-start-line="72" selection-end-line="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/generic/src/main/java/main/java/BrowserDriver.java">
+        <entry file="file://$PROJECT_DIR$/toExecute/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/toExecute/src/test/java/com/commondeer/retailtest/ShoppingCardTest.java">
+        <entry file="file://$PROJECT_DIR$/jewelwebsite/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="400">
+              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/HomePage.java">
+        <entry file="file://$PROJECT_DIR$/jewelwebsite/src/main/resources/executeconfig.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/toExecute/src/test/resources/executable.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+            <state relative-caret-position="352">
+              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -229,7 +242,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Automation.java" />
         <option value="$PROJECT_DIR$/src/main/java/Citadel.java" />
         <option value="$PROJECT_DIR$/src/main/java/ForEveryClass.java" />
@@ -260,6 +272,10 @@
         <option value="$PROJECT_DIR$/generic/src/main/java/main/java/ForEveryClass.java" />
         <option value="$PROJECT_DIR$/generic/src/main/java/main/java/BrowserDriver.java" />
         <option value="$PROJECT_DIR$/toExecute/src/test/resources/executable.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/settings.xml" />
+        <option value="$PROJECT_DIR$/toExecute/pom.xml" />
+        <option value="$PROJECT_DIR$/jewelwebsite/pom.xml" />
       </list>
     </option>
   </component>
@@ -291,8 +307,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -303,6 +319,11 @@
             <path>
               <item name="RuslanGroup" type="b2602c69:ProjectViewProjectNode" />
               <item name="RuslanGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RuslanGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RuslanGroup" type="462c0819:PsiDirectoryNode" />
               <item name="jewelwebsite" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -317,6 +338,14 @@
               <item name="jewelwebsite" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RuslanGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RuslanGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="jewelwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RuslanGroup" type="b2602c69:ProjectViewProjectNode" />
@@ -326,6 +355,18 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="RuslanGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RuslanGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="jewelwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RuslanGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RuslanGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="toExecute" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -334,27 +375,28 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/InteligProjects/gravel/toExecute/src/main/java/CreateAccount.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545800601362" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545807175108" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/generic/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Jewel" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\agaev\Desktop\RuslanGroup\RuslanGroup\commondeer.com\generic\driver" />
-      <recent name="C:\InteligProjects\gravel\generic\driver" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\InteligProjects\gravel\toExecute\src\test" />
       <recent name="C:\InteligProjects\gravel\generic" />
-      <recent name="C:\InteligProjects\gravel\driver" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="main.java" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\InteligProjects\gravel\toExecute\src\test" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\agaev\Desktop\RuslanGroup" />
+      <recent name="C:\Users\agaev\Desktop\RuslanGroup\RuslanGroup\commondeer.com\generic\driver" />
+      <recent name="C:\InteligProjects\gravel\generic\driver" />
       <recent name="C:\InteligProjects\gravel\generic" />
+      <recent name="C:\InteligProjects\gravel\driver" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -369,7 +411,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/agaev/Desktop/RuslanGroup/jewelwebsite/src/main/resources/executeconfig.xml">
     <configuration name="C:/InteligProjects/gravel/toExecute/src/main/resources/executable.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="toExecute" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/toExecute/src/main/resources/executable.xml" />
@@ -390,10 +432,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomePage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="toExecute" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="com.commondeer.retail.HomePage" />
+    <configuration name="C:/Users/agaev/Desktop/RuslanGroup/jewelwebsite/src/main/resources/executeconfig.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jewelwebsite" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/jewelwebsite/src/main/resources/executeconfig.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -426,18 +468,18 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.C:/InteligProjects/gravel/toExecute/src/main/resources/executable.xml" />
-      <item itemvalue="TestNG.HomePage" />
       <item itemvalue="TestNG.HomePage.searchTest" />
       <item itemvalue="TestNG.Test2.searchTest" />
       <item itemvalue="TestNG.C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" />
+      <item itemvalue="TestNG.C:/Users/agaev/Desktop/RuslanGroup/jewelwebsite/src/main/resources/executeconfig.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/agaev/Desktop/RuslanGroup/jewelwebsite/src/main/resources/executeconfig.xml" />
         <item itemvalue="TestNG.C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" />
         <item itemvalue="TestNG.C:/InteligProjects/gravel/toExecute/src/main/resources/executable.xml" />
         <item itemvalue="TestNG.HomePage.searchTest" />
         <item itemvalue="TestNG.Test2.searchTest" />
-        <item itemvalue="TestNG.HomePage" />
       </list>
     </recent_temporary>
   </component>
@@ -455,21 +497,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 20h 40m 13s.xml">
-      <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 20h 57m 47s.xml">
-      <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 21h 00m 00s.xml">
-      <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 21h 03m 13s.xml">
-      <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 21h 05m 58s.xml">
-      <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.23 at 21h 06m 38s.xml">
       <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
     </history-entry>
@@ -485,12 +512,26 @@
     <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.25 at 22h 39m 51s.xml">
       <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.26 at 00h 03m 02s.xml">
+      <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.26 at 00h 03m 07s.xml">
+      <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.26 at 00h 03m 13s.xml">
+      <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__InteligProjects_gravel_toExecute_src_test_resources_executable_xml - 2018.12.26 at 00h 03m 39s.xml">
+      <configuration name="C:/InteligProjects/gravel/toExecute/src/test/resources/executable.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_agaev_Desktop_RuslanGroup_jewelwebsite_src_main_resources_executeconfig_xml - 2018.12.26 at 01h 51m 09s.xml">
+      <configuration name="C:/Users/agaev/Desktop/RuslanGroup/jewelwebsite/src/main/resources/executeconfig.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20469798" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21275167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -555,13 +596,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ForEveryClass.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/generic/driver/chromedriver.exe">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -570,13 +604,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/generic/src/test/java/HomePageTest.java" />
     <entry file="file://$PROJECT_DIR$/toExecute/src/main/java/Test2.java" />
-    <entry file="file://$PROJECT_DIR$/toExecute/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/FindBy.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -640,9 +667,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toExecute/src/test/resources/executable.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3008">
+          <caret line="188" column="70" selection-start-line="188" selection-start-column="70" selection-end-line="188" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toExecute/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -699,10 +744,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toExecute/src/test/resources/executable.xml">
+    <entry file="file://$PROJECT_DIR$/jewelwebsite/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+        <state relative-caret-position="400">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jewelwebsite/src/main/resources/executeconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="939">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
         </state>
       </provider>
     </entry>
