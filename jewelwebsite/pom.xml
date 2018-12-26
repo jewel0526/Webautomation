@@ -53,7 +53,7 @@
                 <version>2.20.1</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suitexmlFile>C:\Users\agaev\Desktop\FullProject\RuslanGroup\jewelwebsite\src\main\resources\executeconfig.xml</suitexmlFile>
+                        <suitexmlFile>target/test-classes/executeconfig.xml</suitexmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
