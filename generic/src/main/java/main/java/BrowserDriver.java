@@ -97,18 +97,18 @@ public class BrowserDriver {
         public WebDriver getLocalDriver(String browserName, String os) {
             if (browserName.equalsIgnoreCase("chrome")) {
                 if (os.equalsIgnoreCase("windows")) {
-                    System.setProperty("webdriver.chrome.driver", "../generic/driver/chromedriver.exe");
+                    System.setProperty("webdriver.chrome.driver", "../generic/drivers/chromedriver.exe");
                     driver = new ChromeDriver();
                 } else if (os.equalsIgnoreCase("mac")) {
-                    System.setProperty("webdriver.chrome.driver", "../generic/driver/chromedriver.exe");
+                    System.setProperty("webdriver.chrome.driver", "../generic/drivers/chromedriver");
                     driver = new ChromeDriver();
                 }
             } else if (browserName.equalsIgnoreCase("firefox")) {
                 if (os.equalsIgnoreCase("windows")) {
-                    System.setProperty("webdriver.gecko.driver", "../generic/driver/geckodriver.exe");
+                    System.setProperty("webdriver.gecko.driver", "../generic/drivers/geckodriver.exe");
                     driver = new ChromeDriver();
                 } else if (os.equalsIgnoreCase("mac")) {
-                    System.setProperty("webdriver.gecko.driver", "../generic/driver/geckodriver.exe");
+                    System.setProperty("webdriver.gecko.driver", "../generic/drivers/geckodriver");
                     driver = new ChromeDriver();
                 }
             }

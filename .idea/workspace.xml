@@ -2,53 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64a29ce1-9b36-413b-9fd8-64966e5de2f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/drivers/mac/chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/drivers/mac/geckodriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/drivers/windows/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/drivers/windows/geckodriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/generic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/src/main/java/base/BrowserDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/driver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/generic/drivers/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/driver/geckodriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/generic/drivers/geckodriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/generic/src/main/java/main/java/BrowserDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/generic/src/main/java/main/java/BrowserDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/target/classes/main/java/BrowserDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/generic/target/classes/main/java/BrowserDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jewelwebsite/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jewelwebsite/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/AllProductPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/CreateAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/CustomerInformationPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/FootterPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/HomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/Login.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/src/main/java/com/commondeer/retail/ShoppingCard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/src/test/java/com/commondeer/retailtest/AllProductPageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/src/test/java/com/commondeer/retailtest/CreateAccountTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/src/test/java/com/commondeer/retailtest/CustomerInformationPageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/src/test/java/com/commondeer/retailtest/FootterPageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/src/test/java/com/commondeer/retailtest/HomePageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/src/test/java/com/commondeer/retailtest/LoginTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/src/test/java/com/commondeer/retailtest/ShoppingCardTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/src/test/resources/executable.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/target/classes/com/commondeer/retail/AllProductPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/target/classes/com/commondeer/retail/CreateAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/target/classes/com/commondeer/retail/CustomerInformationPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/target/classes/com/commondeer/retail/FootterPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/target/classes/com/commondeer/retail/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/target/classes/com/commondeer/retail/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/target/classes/com/commondeer/retail/ShoppingCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/target/test-classes/com/commondeer/retailtest/AllProductPageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/target/test-classes/com/commondeer/retailtest/CreateAccountTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/target/test-classes/com/commondeer/retailtest/CustomerInformationPageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/target/test-classes/com/commondeer/retailtest/FootterPageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/target/test-classes/com/commondeer/retailtest/HomePageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/target/test-classes/com/commondeer/retailtest/LoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/target/test-classes/com/commondeer/retailtest/ShoppingCardTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toExecute/target/test-classes/executable.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -237,30 +193,32 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="java" value="4" />
           <entry key="xml" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="JAVA" value="4" />
           <entry key="XML" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="3" />
           <entry key="xml" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="3" />
           <entry key="XML" value="10" />
         </counts>
       </usages-collector>
@@ -295,7 +253,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CommonDeer/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -304,11 +262,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/generic/src/main/java/main/java/BrowserDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="110" column="84" selection-start-line="110" selection-start-column="84" selection-end-line="110" selection-end-column="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ecommerce/src/test/resources/EcommerceTestRunnerFile.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
-              <caret line="5" column="53" lean-forward="true" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+              <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -326,7 +293,7 @@
         <entry file="file://$PROJECT_DIR$/jewelwebsite/src/test/resources/executeconfig.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
-              <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+              <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -361,7 +328,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/toExecute/src/test/java/ShoppingCardTest.java" />
         <option value="$PROJECT_DIR$/toExecute/src/main/java/ShoppingCard.java" />
         <option value="$PROJECT_DIR$/toExecute/src/test/java/CustomerInformationPageTest.java" />
         <option value="$PROJECT_DIR$/toExecute/src/main/java/FotterPage.java" />
@@ -412,6 +378,7 @@
         <option value="$PROJECT_DIR$/ecommerce/src/test/resources/EcommerceTestRunnerFile.xml" />
         <option value="$PROJECT_DIR$/ecommerce/pom.xml" />
         <option value="$PROJECT_DIR$/jewelwebsite/pom.xml" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/main/java/BrowserDriver.java" />
       </list>
     </option>
   </component>
@@ -440,6 +407,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -451,6 +419,42 @@
               <item name="RuslanGroup" type="b2602c69:ProjectViewProjectNode" />
               <item name="RuslanGroup" type="462c0819:PsiDirectoryNode" />
               <item name="generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RuslanGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RuslanGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="drivers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RuslanGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RuslanGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RuslanGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RuslanGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RuslanGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RuslanGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RuslanGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RuslanGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RuslanGroup" type="b2602c69:ProjectViewProjectNode" />
@@ -482,13 +486,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/InteligProjects/gravel/toExecute/src/main/java/CreateAccount.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546569785491" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546570074931" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/generic/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -649,7 +652,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19798657" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20067114" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -663,7 +666,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32907802" />
@@ -756,13 +759,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CommonDeer/screenshots/ dropDownSearchFuncTest.png" />
-    <entry file="file://$PROJECT_DIR$/generic/src/main/java/main/java/BrowserDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="119" column="49" lean-forward="true" selection-start-line="119" selection-start-column="49" selection-end-line="119" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CommonDeer/src/main/java/com/commondeer/retail/CustomerInformationPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
@@ -909,13 +905,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -923,10 +912,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ecommerce/pom.xml">
+    <entry file="file://$PROJECT_DIR$/generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="96">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -934,6 +923,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/resources/EcommerceTestRunnerFile.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -947,14 +943,14 @@
     <entry file="file://$PROJECT_DIR$/jewelwebsite/src/test/resources/executeconfig.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ecommerce/src/test/resources/EcommerceTestRunnerFile.xml">
+    <entry file="file://$PROJECT_DIR$/ecommerce/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="53" lean-forward="true" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+        <state relative-caret-position="192">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -962,6 +958,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="19" column="21" selection-start-line="14" selection-start-column="8" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/main/java/BrowserDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="110" column="84" selection-start-line="110" selection-start-column="84" selection-end-line="110" selection-end-column="84" />
         </state>
       </provider>
     </entry>
