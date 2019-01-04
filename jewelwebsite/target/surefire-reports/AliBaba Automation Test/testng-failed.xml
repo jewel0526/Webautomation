@@ -8,6 +8,18 @@
   <parameter name="url" value="https://stockx.com/"/>
   <test name="jewelwebsite(failed)">
     <classes>
+      <class name="vasya.HomePageTest">
+        <methods>
+          <include name="extentSetup"/>
+          <include name="startExtent"/>
+          <include name="generateReport"/>
+          <include name="searchTest"/>
+          <include name="initializationOfElements"/>
+          <include name="setUp"/>
+          <include name="closeOut"/>
+          <include name="afterEachTestMethod"/>
+        </methods>
+      </class> <!-- vasya.HomePageTest -->
       <class name="vasya.loginpageTest">
         <methods>
           <include name="extentSetup"/>
@@ -20,18 +32,6 @@
           <include name="initializationOfElements"/>
         </methods>
       </class> <!-- vasya.loginpageTest -->
-      <class name="vasya.appPageTest">
-        <methods>
-          <include name="appTest"/>
-          <include name="extentSetup"/>
-          <include name="intializaionElements"/>
-          <include name="startExtent"/>
-          <include name="generateReport"/>
-          <include name="setUp"/>
-          <include name="closeOut"/>
-          <include name="afterEachTestMethod"/>
-        </methods>
-      </class> <!-- vasya.appPageTest -->
       <class name="vasya.signupageTest">
         <methods>
           <include name="initializationOfElements"/>
@@ -44,6 +44,18 @@
           <include name="signupTypesTest"/>
         </methods>
       </class> <!-- vasya.signupageTest -->
+      <class name="vasya.appPageTest">
+        <methods>
+          <include name="appTest"/>
+          <include name="intializaionElements"/>
+          <include name="extentSetup"/>
+          <include name="startExtent"/>
+          <include name="generateReport"/>
+          <include name="setUp"/>
+          <include name="closeOut"/>
+          <include name="afterEachTestMethod"/>
+        </methods>
+      </class> <!-- vasya.appPageTest -->
     </classes>
   </test> <!-- jewelwebsite(failed) -->
 </suite> <!-- Failed suite [AliBaba Automation Test] -->

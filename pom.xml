@@ -11,8 +11,6 @@
 
     <modules>
         <module>jewelwebsite</module>
-        <module>CommonDeer</module>
-        <module>ecommerce</module>
         <module>generic</module>
     </modules>
     <dependencyManagement>
