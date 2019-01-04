@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="CommonDeer" />
         <module name="ecommerce" />
         <module name="generic" />
         <module name="jewelwebsite" />
-        <module name="toExecute" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="toExecute" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
