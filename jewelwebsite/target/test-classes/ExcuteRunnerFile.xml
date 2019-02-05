@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="AliBaba Automation Test" parallel="false">
+
+    <!--<parameter name="useCloudEnv" value="false"/>
+    <parameter name="cloudEnvName" value="browserstack"/>-->
+
+    <parameter name="os" value="Mac"/>
+    <parameter name="os_version" value="10"/>
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="browserVersion" value="62.0"/>
+    <parameter name="url" value="https://stockx.com/"/>
+
+
+    <test name="jewelwebsite">
+        <classes>
+
+            <!--   <class name="testCases.HomePageTest"/>-->
+
+
+            <!--  <class name="testCases.LoginpageTest"/>-->
+
+            <!--     <class name="testCases.SignupageTest"/>-->
+
+            <!--    <class name="testCases.NewsPageTest"/>-->
+
+            <!--     <class name="testCases.AboutPageTest"/>-->
+
+             <!--<class name="testCases.BrowserPageTest"/>-->
+
+
+        <!--    <class name="testCases.AppPageTest"/>-->
+
+            <class name="testCases.GooglesheetLoginPageTest"/>
+
+
+        </classes>
+
+
+    </test>
+
+</suite>

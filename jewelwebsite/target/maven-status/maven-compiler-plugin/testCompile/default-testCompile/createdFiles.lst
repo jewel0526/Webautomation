@@ -1,4 +1,7 @@
-appPageTest.class
-HomePageTest.class
-signupageTest.class
-loginpageTest.class
+testCases/AboutPageTest.class
+testCases/HomePageTest.class
+testCases/LoginpageTest.class
+testCases/AppPageTest.class
+testCases/BrowserPageTest.class
+testCases/NewsPageTest.class
+testCases/SignupageTest.class

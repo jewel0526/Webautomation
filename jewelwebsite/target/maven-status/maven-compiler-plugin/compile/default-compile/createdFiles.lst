@@ -1,4 +1,8 @@
-signupPage.class
-loginpage.class
-appPage.class
-HomePage.class
+com/vasya/AppPage.class
+com/vasya/Loginpage.class
+com/vasya/AboutPage.class
+com/vasya/HomePage.class
+com/vasya/NewsPage.class
+com/vasya/BrowsePage.class
+com/vasya/SignupPage.class
+ApplicationPagebasee/ApplicationPageBase.class

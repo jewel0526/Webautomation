@@ -3,18 +3,17 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <groupId>com.webautomation.nov18</groupId>
-        <artifactId>webautomationnov18</artifactId>
+        <groupId>com.webautomation.stockX</groupId>
+        <artifactId>webautomation</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-
 
     <modelVersion>4.0.0</modelVersion>
     <artifactId>jewelwebsite</artifactId>
 
     <dependencies>
         <dependency>
-            <groupId>com.webautomation.nov18</groupId>
+            <groupId>com.webautomation.stockX</groupId>
             <artifactId>generic</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>
@@ -39,7 +38,7 @@
                 <version>2.20.1</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suitexmlFile>target/test-classes/executeconfig.xml</suitexmlFile>
+                        <suitexmlFile>target/test-classes/ExcuteRunnerFile.xml</suitexmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
