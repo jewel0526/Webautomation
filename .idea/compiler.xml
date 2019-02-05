@@ -10,8 +10,5 @@
         <module name="jewelwebsite" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="toExecute" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

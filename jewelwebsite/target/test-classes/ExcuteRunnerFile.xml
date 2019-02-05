@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-
+<!DOCTYPE suite [
+        <!ELEMENT suite (parameter|test)*>
+        <!ATTLIST suite
+                name CDATA #REQUIRED
+                parallel CDATA #REQUIRED>
+        <!ELEMENT parameter (#PCDATA)>
+        <!ATTLIST parameter
+                name CDATA #REQUIRED
+                value CDATA #REQUIRED>
+        <!ELEMENT test (classes)*>
+        <!ATTLIST test
+                name CDATA #REQUIRED>
+        <!ELEMENT classes (class)*>
+        <!ELEMENT class (#PCDATA)>
+        <!ATTLIST class
+                name CDATA #REQUIRED>
+        ]>
 <suite name="AliBaba Automation Test" parallel="false">
 
     <!--<parameter name="useCloudEnv" value="false"/>
@@ -30,9 +45,9 @@
              <!--<class name="testCases.BrowserPageTest"/>-->
 
 
-        <!--    <class name="testCases.AppPageTest"/>-->
+          <!--  <class name="testCases.AppPageTest"/>-->
 
-            <class name="testCases.GooglesheetLoginPageTest"/>
+    <!--        <class name="testCases.GooglesheetLoginPageTest"/>-->
 
 
         </classes>

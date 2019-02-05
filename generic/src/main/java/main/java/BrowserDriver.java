@@ -100,15 +100,15 @@ public class BrowserDriver {
                     System.setProperty("webdriver.chrome.driver", "../generic/drivers/chromedriver");
                     driver = new ChromeDriver();
                 } else if (os.equalsIgnoreCase("mac")) {
-                    System.setProperty("webdriver.chrome.driver", "/Users/jewelahamed/Desktop/Sisa/RuslanGroup/generic/drivers/chromedriver");
+                    System.setProperty("webdriver.chrome.driver", "../generic/drivers/chromedriver");
                     driver = new ChromeDriver();
                 }
             } else if (browserName.equalsIgnoreCase("firefox")) {
                 if (os.equalsIgnoreCase("windows")) {
-                    System.setProperty("webdriver.gecko.driver", "/Users/jewelahamed/Desktop/Sisa/RuslanGroup/generic/drivers/geckodriver");
+                    System.setProperty("webdriver.gecko.driver", "/Users/jewelahamed/Desktop/sisa/RuslanGroup/generic/drivers/geckodriver");
                    driver = new ChromeDriver();
                 } else if (os.equalsIgnoreCase("mac")) {
-                    System.setProperty("webdriver.gecko.driver", "/Users/jewelahamed/Desktop/Sisa/RuslanGroup/generic/drivers/geckodriver.exe");
+                    System.setProperty("webdriver.gecko.driver", "/Users/jewelahamed/Desktop/sisa/RuslanGroup/generic/drivers/geckodriver.exe");
                     driver = new ChromeDriver();
                 }
             }
